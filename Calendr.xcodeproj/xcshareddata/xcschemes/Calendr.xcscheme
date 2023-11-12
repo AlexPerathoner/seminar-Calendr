@@ -43,11 +43,8 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <TestPlans>
          <TestPlanReference
-            reference = "container:CalendrTests/UnitTests.xctestplan"
+            reference = "container:CalendrUITests/UITests.xctestplan"
             default = "YES">
-         </TestPlanReference>
-         <TestPlanReference
-            reference = "container:CalendrUITests/UITests.xctestplan">
          </TestPlanReference>
       </TestPlans>
       <Testables>
